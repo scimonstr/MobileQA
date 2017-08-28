@@ -1,0 +1,69 @@
+{
+  "uid" : "d1d0668db9f5d650",
+  "name" : "T06fullSearchAnyTest[beast]",
+  "title" : "Full search any test",
+  "time" : {
+    "start" : 1497875919845,
+    "stop" : 1497875936998,
+    "duration" : 17153
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "CRITICAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c48dd28a317703a1",
+    "name" : "Happy Path Tests : org.no.cases.HappyPathTests",
+    "title" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "19567@astrashevskiy2-wf.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Full search any"
+  }, {
+    "name" : "suite-name",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "host",
+    "value" : "astrashevskiy2-wf.local"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testClass",
+    "value" : "org.no.cases.HappyPathTests"
+  }, {
+    "name" : "testSuite",
+    "value" : "Happy Path Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "T06fullSearchAnyTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "org.no.cases.HappyPathTests"
+  } ],
+  "parameters" : [ {
+    "name" : "Search phrase",
+    "value" : "beast",
+    "kind" : "ARGUMENT"
+  } ]
+}

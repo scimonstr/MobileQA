@@ -1,0 +1,69 @@
+{
+  "uid" : "57f2068acad3ef16",
+  "name" : "T02exactSearchTest[big]",
+  "title" : "Exact filtering search test",
+  "time" : {
+    "start" : 1497875817490,
+    "stop" : 1497875831169,
+    "duration" : 13679
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "MINOR",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c48dd28a317703a1",
+    "name" : "Happy Path Tests : org.no.cases.HappyPathTests",
+    "title" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "19567@astrashevskiy2-wf.local.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "host",
+    "value" : "astrashevskiy2-wf.local"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testClass",
+    "value" : "org.no.cases.HappyPathTests"
+  }, {
+    "name" : "testSuite",
+    "value" : "Happy Path Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "T02exactSearchTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "feature",
+    "value" : "Exact filtering"
+  }, {
+    "name" : "testGroup",
+    "value" : "org.no.cases.HappyPathTests"
+  } ],
+  "parameters" : [ {
+    "name" : "Search phrase",
+    "value" : "big",
+    "kind" : "ARGUMENT"
+  } ]
+}

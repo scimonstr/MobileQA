@@ -1,0 +1,113 @@
+{
+  "testCases" : [ {
+    "uid" : "4fbf2b2644e50d62",
+    "name" : "T01basicSearchTest[hello]",
+    "title" : "Basic filtering search test",
+    "time" : {
+      "start" : 1497875795484,
+      "stop" : 1497875805397,
+      "duration" : 9913
+    },
+    "severity" : "MINOR",
+    "status" : "PASSED"
+  }, {
+    "uid" : "57f2068acad3ef16",
+    "name" : "T02exactSearchTest[big]",
+    "title" : "Exact filtering search test",
+    "time" : {
+      "start" : 1497875817490,
+      "stop" : 1497875831169,
+      "duration" : 13679
+    },
+    "severity" : "MINOR",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fd39cf39d88500bd",
+    "name" : "T03anySubstringSearchTest[ugly]",
+    "title" : "Any Substring filtering search test",
+    "time" : {
+      "start" : 1497875843036,
+      "stop" : 1497875857558,
+      "duration" : 14522
+    },
+    "severity" : "CRITICAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "63670e429eafe6c",
+    "name" : "T04fullSearchBasicTest[ogre]",
+    "title" : "Full search basic test",
+    "time" : {
+      "start" : 1497875869442,
+      "stop" : 1497875882582,
+      "duration" : 13140
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d327c7674294479",
+    "name" : "T05fullSearchExactTest[dingo]",
+    "title" : "Full search exact test",
+    "time" : {
+      "start" : 1497875894595,
+      "stop" : 1497875909035,
+      "duration" : 14440
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d1d0668db9f5d650",
+    "name" : "T06fullSearchAnyTest[beast]",
+    "title" : "Full search any test",
+    "time" : {
+      "start" : 1497875919845,
+      "stop" : 1497875936998,
+      "duration" : 17153
+    },
+    "severity" : "CRITICAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f327c053a49e2985",
+    "name" : "T07clearSearchBarTest[Very long sentence...]",
+    "title" : "Search Bar test",
+    "time" : {
+      "start" : 1497875948832,
+      "stop" : 1497875958566,
+      "duration" : 9734
+    },
+    "severity" : "CRITICAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "807721d378fbefc4",
+    "name" : "T08clearSearchResultsTest",
+    "title" : "Clear Search Results test",
+    "time" : {
+      "start" : 1497875969336,
+      "stop" : 1497875980395,
+      "duration" : 11059
+    },
+    "severity" : "MINOR",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5019d81f1c8a8a2d",
+    "name" : "T09AddToFavouritesTest",
+    "title" : "Add to Favourites Test",
+    "time" : {
+      "start" : 1497875990376,
+      "stop" : 1497876002851,
+      "duration" : 12475
+    },
+    "severity" : "MINOR",
+    "status" : "PASSED"
+  }, {
+    "uid" : "61a89d8273a90857",
+    "name" : "T10RemoveFromFavouritesTest",
+    "title" : "Remove from Favourites Test",
+    "time" : {
+      "start" : 1497876014789,
+      "stop" : 1497876037091,
+      "duration" : 22302
+    },
+    "severity" : "MINOR",
+    "status" : "PASSED"
+  } ]
+}

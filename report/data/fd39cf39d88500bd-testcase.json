@@ -1,0 +1,69 @@
+{
+  "uid" : "fd39cf39d88500bd",
+  "name" : "T03anySubstringSearchTest[ugly]",
+  "title" : "Any Substring filtering search test",
+  "time" : {
+    "start" : 1497875843036,
+    "stop" : 1497875857558,
+    "duration" : 14522
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "CRITICAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c48dd28a317703a1",
+    "name" : "Happy Path Tests : org.no.cases.HappyPathTests",
+    "title" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "19567@astrashevskiy2-wf.local.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "host",
+    "value" : "astrashevskiy2-wf.local"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testMethod",
+    "value" : "T03anySubstringSearchTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.no.cases.HappyPathTests"
+  }, {
+    "name" : "testSuite",
+    "value" : "Happy Path Tests"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "feature",
+    "value" : "Any Substring filtering"
+  }, {
+    "name" : "testGroup",
+    "value" : "org.no.cases.HappyPathTests"
+  } ],
+  "parameters" : [ {
+    "name" : "Search phrase",
+    "value" : "ugly",
+    "kind" : "ARGUMENT"
+  } ]
+}

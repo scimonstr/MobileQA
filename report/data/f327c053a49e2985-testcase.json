@@ -1,0 +1,69 @@
+{
+  "uid" : "f327c053a49e2985",
+  "name" : "T07clearSearchBarTest[Very long sentence...]",
+  "title" : "Search Bar test",
+  "time" : {
+    "start" : 1497875948832,
+    "stop" : 1497875958566,
+    "duration" : 9734
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "CRITICAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c48dd28a317703a1",
+    "name" : "Happy Path Tests : org.no.cases.HappyPathTests",
+    "title" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "19567@astrashevskiy2-wf.local.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "host",
+    "value" : "astrashevskiy2-wf.local"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testClass",
+    "value" : "org.no.cases.HappyPathTests"
+  }, {
+    "name" : "testSuite",
+    "value" : "Happy Path Tests"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "T07clearSearchBarTest"
+  }, {
+    "name" : "feature",
+    "value" : "Search Bar"
+  }, {
+    "name" : "testGroup",
+    "value" : "org.no.cases.HappyPathTests"
+  } ],
+  "parameters" : [ {
+    "name" : "Query string",
+    "value" : "Very long sentence...",
+    "kind" : "ARGUMENT"
+  } ]
+}

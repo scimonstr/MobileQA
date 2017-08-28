@@ -1,0 +1,19 @@
+language: java
+
+jdk:
+  - oraclejdk8
+
+os:
+  - linux
+
+branches:
+    - master
+    - develop
+
+cache:
+  directories:
+  - $HOME/.gradle
+  - $HOME/.gradle/wrapper/
+
+build:
+  mvn clean test

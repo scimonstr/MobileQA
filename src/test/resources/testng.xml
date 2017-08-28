@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Happy Path Tests" verbose="5" >
+    <listeners>
+        <listener class-name="org.no.listeners.SuiteListener" />
+        <listener class-name="org.no.listeners.TestListener" />
+    </listeners>
+    <test name="org.no.cases.HappyPathTests" >
+
+        <classes>
+            <class name="org.no.cases.HappyPathTests" />
+        </classes>
+    </test>
+</suite>

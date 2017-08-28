@@ -1,0 +1,65 @@
+{
+  "uid" : "5019d81f1c8a8a2d",
+  "name" : "T09AddToFavouritesTest",
+  "title" : "Add to Favourites Test",
+  "time" : {
+    "start" : 1497875990376,
+    "stop" : 1497876002851,
+    "duration" : 12475
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "MINOR",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c48dd28a317703a1",
+    "name" : "Happy Path Tests : org.no.cases.HappyPathTests",
+    "title" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "19567@astrashevskiy2-wf.local.main(1)"
+  }, {
+    "name" : "testMethod",
+    "value" : "T09AddToFavouritesTest"
+  }, {
+    "name" : "suite-name",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "host",
+    "value" : "astrashevskiy2-wf.local"
+  }, {
+    "name" : "feature",
+    "value" : "Add to Favourites"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testClass",
+    "value" : "org.no.cases.HappyPathTests"
+  }, {
+    "name" : "testSuite",
+    "value" : "Happy Path Tests"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Happy Path Tests : org.no.cases.HappyPathTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "org.no.cases.HappyPathTests"
+  } ],
+  "parameters" : [ ]
+}
